@@ -10,6 +10,8 @@ body {
   -webkit-font-smoothing: antialiased;
   background: #32bafa;
   overflow-x: hidden;
+  margin: 0;
+
 }
 
 .cover {
